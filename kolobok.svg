@@ -1,0 +1,23 @@
+<svg width="400" height="220" xmlns="http://www.w3.org/2000/svg">
+                <ellipse cx="60px" cy="95px" rx="37px" ry="15px" fill="orange" transform="rotate(12)"/> <!--kolobok_left__tail-->
+                <polygon points="6,98 30,93 26,113" stroke="white" fill="white"/> <!--kolobok_left__tail_end-->
+                <ellipse cx="120px" cy="160px" rx="45px" ry="15px" fill="lightgrey"/> <!--kolobok_left__shadow-->
+                <circle cx="120px" cy="100px" r="60px" fill="orange"/> <!--kolobok_left-->
+                <circle cx="110px" cy="90px" r="25px" fill="white"/> <!--kolobok_left__eye_left-->
+                <circle cx="149px" cy="90px" r="25px" fill="white"/> <!--kolobok_left__eye_right-->
+                <circle cx="115px" cy="92px" r="5px" fill="black"/> <!--kolobok_left__pupil_left-->
+                <circle cx="152px" cy="92px" r="5px" fill="black"/> <!--kolobok_left__pupil_right-->
+                <circle cx="132px" cy="112px" r="8px" fill="black"/> <!--kolobok_left__nose-->
+                <ellipse cx="119px" cy="137px" rx="12px" ry="5px" fill="red"/> <!--kolobok_left__mouth-->
+                <polygon points="65,40 70,68 100,45" fill="orange"/> <!--kolobok_left__ear_left-->
+                <polygon points="70,44 73,60 90,47" fill="black"/> <!--kolobok_left__ear_left1-->
+                <polygon points="164,35 130,45 168,67" fill="orange"/> <!--kolobok_left__ear_right-->
+                <polygon points="162,39 144,44 163,55" fill="black"/> <!--kolobok_left__ear_right2-->
+                <ellipse cx="320px" cy="160px" rx="45px" ry="15px" fill="lightgrey"/> <!--kolobok_right__shadow-->
+                <circle cx="320px" cy="100px" r="60px" fill="yellow"/> <!--kolobok_right-->
+                <circle cx="295px" cy="90px" r="25px" fill="white"/> <!--kolobok_right__eye_left-->
+                <circle cx="328px" cy="90px" r="25px" fill="white"/> <!--kolobok_right__eye_right-->
+                <circle cx="290px" cy="92px" r="5px" fill="black"/> <!--kolobok_right__pupil_left-->
+                <circle cx="325px" cy="92px" r="5px" fill="black"/> <!--kolobok_right__pupil_right-->
+                <ellipse cx="312px" cy="133px" rx="5px" ry="10px" fill="red"/> <!--kolobok_right__mouth-->
+</svg>
